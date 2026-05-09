@@ -1,10 +1,10 @@
 {
   "name": "openai",
-  "version": "3.2.1",
+  "version": "3.2.1-lineaje-01",
   "description": "Node.js library for the OpenAI API",
   "repository": {
     "type": "git",
-    "url": "git@github.com:openai/openai-node.git"
+    "url": "https://github.com/lineaje-labs-gos/openai-openai-node"
   },
   "keywords": [
     "openai",
@@ -15,6 +15,12 @@
   ],
   "author": "OpenAI",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
